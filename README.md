@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first repo
-N S Samartha
+This is my first repo
+<br>
+Author - N S Samartha
